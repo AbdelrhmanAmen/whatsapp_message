@@ -1,0 +1,15 @@
+Date: 15/1/2023
+Time: 14:22
+Phone Number: +201127020672
+Message: hello from automed message
+--------------------
+Date: 15/1/2023
+Time: 14:55
+Phone Number: +201127020672
+Message: hello from automed message
+--------------------
+Date: 15/1/2023
+Time: 14:56
+Phone Number: +201127020672
+Message: hello from automated message
+--------------------
